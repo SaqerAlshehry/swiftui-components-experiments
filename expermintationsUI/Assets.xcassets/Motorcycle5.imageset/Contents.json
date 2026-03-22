@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "2026-cvo-street-glide-limited-m64-motorcycle-2.jpeg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
