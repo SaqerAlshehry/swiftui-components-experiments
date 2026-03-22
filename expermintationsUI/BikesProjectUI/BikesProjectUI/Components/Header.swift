@@ -16,8 +16,8 @@ struct Header: View {
                 Image(.saqerPhoto)
                     .resizable()
                     .scaledToFit()
-                    .frame(width: 75, height: 75)
-                    .clipShape(Capsule())
+                    .frame(width: 70, height: 75)
+                    .clipShape(Circle())
                 VStack (alignment: .leading){
                     //name
                     Text("Saqer")
